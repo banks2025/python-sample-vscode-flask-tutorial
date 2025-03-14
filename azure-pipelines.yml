@@ -34,7 +34,6 @@ displayName: 'Install dependencies'
       includeRootFolder: false
       archiveType: zip
       archiveFile: $(Build.ArtifactStagingDirectory)/$(Build.BuildId)-$(python.version).zip 
-
       replaceExistingArchive: true 
 
  
@@ -57,4 +56,4 @@ displayName: 'Install dependencies'
 
       pytest 
 
-      displayName: 'pytest'   
+      displayName: 'pytest
