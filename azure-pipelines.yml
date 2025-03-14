@@ -56,4 +56,4 @@ displayName: 'Install dependencies'
 
       pytest 
 
-      displayName: 'banks2025
+      displayName: 'pytest'
